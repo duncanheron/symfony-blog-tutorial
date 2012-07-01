@@ -1,0 +1,3 @@
+FindAFindABundle_homepage:
+    pattern:  /finda/{name}
+    defaults: { _controller: FindAFindABundle:Default:index }

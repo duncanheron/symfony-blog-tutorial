@@ -1,0 +1,16 @@
+FindAFindABundle:
+    resource: "@FindAFindABundle/Resources/config/routing.yml"
+    prefix:   /
+
+
+BloggerBlogBundle:
+    resource: "@BloggerBlogBundle/Resources/config/routing.yml"
+    prefix:   /
+
+AcmeTodoListBundle:
+    resource: "@AcmeTodoListBundle/Resources/config/routing.yml"
+    prefix:   /
+
+AcmeHelloBundle:
+    resource: "@AcmeHelloBundle/Resources/config/routing.yml"
+    prefix:   /

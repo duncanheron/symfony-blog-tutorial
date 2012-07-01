@@ -1,0 +1,3 @@
+FrontendFrontendBundle_homepage:
+    pattern:  /
+    defaults: { _controller: FrontendFrontendBundle:Default:index }

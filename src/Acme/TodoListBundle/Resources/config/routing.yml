@@ -1,0 +1,3 @@
+AcmeTodoListBundle_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: AcmeTodoListBundle:Default:index }

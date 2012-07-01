@@ -1,0 +1,7 @@
+parameters:
+#    find_a_find_a.example.class: FindA\FindABundle\Example
+
+services:
+#    find_a_find_a.example:
+#        class: %find_a_find_a.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
